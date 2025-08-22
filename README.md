@@ -2225,5 +2225,6 @@ Alternatively, a different folder can be specified by setting the `MLS_ASSETS_FO
 For a form named `example_form` the generated assets will follow the following naming convention : `example_form.json` and `example_form.properties`.
 
 The properties file can then be copied over to the `resources` folder of your Android project under `src/main`. The placeholder-injected JsonForm will typically be copied over to the `assets` folder of your Android project (although not mandatory).
-#   o p e n s r p - c l i e n t - n a t i v e - f o r m  
+#   o p e n s r p - c l i e n t - n a t i v e - f o r m 
+ 
  
